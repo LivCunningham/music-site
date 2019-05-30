@@ -14,9 +14,23 @@ body {
 .nav-bar {
   background-color: black;
   height: 4rem;
+  display: flex;
 }
 
 .hero-image {
   height: 50rem;
   width: 100%;
+  display: flex;
+}
+
+.nav-bar p {
+  display: flex;
+  color: whitesmoke;
+  margin-left: 18rem;
+}
+
+.home {
+  display: flex;
+  margin-top: 1rem;
+  margin-left: 5rem;
 }
