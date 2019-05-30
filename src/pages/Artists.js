@@ -21,6 +21,10 @@ class Artists extends Component {
             </Link>
           </nav>
         </div>
+        <ul>
+          
+        </ul>
+        <
       </>
     )
   }
